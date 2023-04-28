@@ -9,17 +9,14 @@
   </div>
 
   <div>
-    <h2>hi there👋 I'm YunSeo </h2>
-      <a href="https://bjw1622.github.io/"><img src="https://img.shields.io/badge/Github Blog-181717?style=flat-square&logo=Github&logoColor=white"/></a>&nbsp
+    <h2>hi there👋 I'm JaeWon </h2>
       <a href="mailto:bjw1622@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
-
-   [![Solved.ac dbn02](http://mazassumnida.wtf/api/mini/generate_badge?boj=dbn02)](https://solved.ac/dbn02)
   </div>
 
   <div>
     <h2>Skills</h2>
     <div>
-       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=han0224&layout=compact&theme=tokyonight"/>
+       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjw1622&layout=compact&theme=tokyonight"/>
     </div>
     <div>
       <h4>Language</h4>
