@@ -10,8 +10,8 @@
 
   <div>
     <h2>hi there👋 I'm YunSeo </h2>
-      <a href="https://han0224.github.io/"><img src="https://img.shields.io/badge/Github Blog-181717?style=flat-square&logo=Github&logoColor=white"/></a>&nbsp
-      <a href="mailto:dbn0224@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
+      <a href="https://bjw1622.github.io/"><img src="https://img.shields.io/badge/Github Blog-181717?style=flat-square&logo=Github&logoColor=white"/></a>&nbsp
+      <a href="mailto:bjw1622@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
 
    [![Solved.ac dbn02](http://mazassumnida.wtf/api/mini/generate_badge?boj=dbn02)](https://solved.ac/dbn02)
   </div>
