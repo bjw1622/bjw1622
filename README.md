@@ -11,6 +11,8 @@
   <div>
     <h2>hi there👋 I'm JaeWon </h2>
       <a href="mailto:bjw1622@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
+    https://velog.io/@bjw1622
+      <a href="mailto:bjw1622@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
   </div>
 
   <div>
