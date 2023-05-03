@@ -14,7 +14,7 @@
       <a href="https://velog.io/@bjw1622"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> 
   </div>
   
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=bjw1622&theme=onedark)](https://github.com/bjw1622/github-profile-trophy)
   <div>
     <h2>Skills</h2>
     <div>
