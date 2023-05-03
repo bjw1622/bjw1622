@@ -10,9 +10,6 @@
   <hr/>
     <div>
       <div>
-        <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjw1622&layout=compact&theme=tokyonight"/>
-      </div>
-      <div>
         <h4>Language</h4>
         <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp
@@ -23,4 +20,8 @@
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>&nbsp
       </div>
     </div>
+    
+![bjw1622 github stats](https://github-readme-stats.vercel.app/api?username=bjw1622&show_icons=true)
+
+[![bjw1622 github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bjw1622&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/bjw1622)
 </div>
