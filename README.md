@@ -5,7 +5,7 @@
   </div>
   <hr/>
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=bjw1622&theme=onedark)](https://github.com/bjw1622/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bjw1622&row=1&theme=onedark)](https://github.com/bjw1622/github-profile-trophy)
   
   <hr/>
     <div>
